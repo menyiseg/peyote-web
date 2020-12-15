@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: peyote
-image: /img/landscapetopography.svg
+image: /img/topography.png
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
